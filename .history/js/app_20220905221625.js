@@ -34,7 +34,7 @@ const renderPokemon = async (pokemon) => {
         "front_default"
       ];
     input.value = "";
-    searchPokemon = data.id;
+    se
   } else {
     pokemonImage.style.display = "none";
     pokemonName.innerHTML = "Not found🥁";
