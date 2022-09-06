@@ -21,4 +21,4 @@ const renderPokemon = async (pokemon) => {
     ];
 };
 
-renderPokemon("150");
+renderPokemon("5");
